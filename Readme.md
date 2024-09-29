@@ -6,8 +6,12 @@ My Tags:
   - "[[javascript]]"
 Status: true
 ---
+
+---
 Created by: **Muhammad Mahfuj**
 Student: <font color="#7030a0">Programming Hero - Batch 10 </font>
+---
+
 # 1 Basics of JavaScript
 
 ## 1.0 Introduction
