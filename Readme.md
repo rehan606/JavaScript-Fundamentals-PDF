@@ -7,12 +7,10 @@ My Tags:
 Status: true
 ---
 
----
 Created by: 
   - "[[Muhammad Mahfuj]]"
 Student:
   - "[[<font color="#7030a0">Programming Hero - Batch 10 </font>]]"
----
 
 # 1 Basics of JavaScript
 
